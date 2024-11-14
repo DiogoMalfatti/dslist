@@ -1,6 +1,6 @@
-# Sistema de Certificação de Estudantes
+# Sistema de Lista de Games
 
-### API-Rest de certificação de estudantes com algumas questões de mútilpa escolha que classifica os estudantes em um ranking top10
+### API-Rest de lista de games, onde é possível criar sua lista, ver o card dos games e atualizar o ranking por arrasta e solta.
 
 ### Descrição do certificado:
 
@@ -17,7 +17,7 @@
 <img align="center" alt="badge do intellij IDE"
   src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img align="center" alt="badge do linux ubuntu"
-  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <p>Conteúdos: Desenvolvimento de uma aplicação back-end em Java, Maven, Spring Boot, API Rest, Lombok, Integração
 com PostgreSQL Database, Implementando JDBC Template, príncipios do SOLID, JPA, utilização de entidades,
