@@ -1,8 +1,13 @@
 # Sistema de Lista de Games
 
+<img align="center" alt="chamada para o evento Intesivão Java Spring"
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/chamadaEvento.png" />
+
 ### API-Rest de lista de games, onde é possível criar sua lista, ver o card dos games e atualizar o ranking por arrasta e solta.
 
-### Descrição do certificado:
+### Descrição do projeto:
+
+### API-Rest de lista de games, onde é possível criar sua lista, ver o card dos games e atualizar o ranking por arrasta e solta.
 
 <img align="center" alt="badge do java"
   src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -21,32 +26,25 @@
 
 ### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
 
-<img align="center" alt="chamada para o evento Intesivão Java Spring"
-  height="400em" src="" />
-
-###
-
-### Descrição do projeto :
-
 <p> - O que estudamos na aula 01</p>
-<img align="center" alt="diagrama uml simplificado"
- height="400em" src="" />
+<img align="center" alt="O que estudamos na aula 01"
+ height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/01aula.png" />
 
 <p> - O que estudamos na aula 02</p>
-<img align="center" alt="diagrama uml simplificado"
- height="400em" src="" />
+<img align="center" alt="O que estudamos na aula 02"
+ height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/02aula.png" />
 
 <p> - O que estudamos na aula 03</p>
-<img align="center" alt="diagrama uml simplificado"
- height="400em" src="" />
+<img align="center" alt="O que estudamos na aula 03"
+ height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/03aula.png" />
 
 <p> - O que estudamos na aula 04</p>
-<img align="center" alt="diagrama uml simplificado"
+<img align="center" alt="O que estudamos na aula 04"
  height="400em" src="" />
 
 <p> - Diagrama do modelo de domínio da API</p>
 <img align="center" alt="diagrama uml simplificado"
-  height="400em" src="" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/04aula.png" />
 
 <p> - Criamos a API orientada em camadas</p>
 <img align="center" alt="diagrama uml simplificado"
