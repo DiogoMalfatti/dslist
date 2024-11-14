@@ -1,9 +1,9 @@
 # Sistema de Lista de Games
 
+### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
+
 <img align="center" alt="chamada para o evento Intesivão Java Spring"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/chamadaEvento.png" />
-
-### API-Rest de lista de games, onde é possível criar sua lista, ver o card dos games e atualizar o ranking por arrasta e solta.
 
 ### Descrição do projeto:
 
@@ -23,8 +23,6 @@
   src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img align="center" alt="badge do linux ubuntu"
   src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
 
 <p> - O que estudamos na aula 01</p>
 <img align="center" alt="O que estudamos na aula 01"
