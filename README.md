@@ -19,10 +19,6 @@
 <img align="center" alt="badge do linux ubuntu"
   src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-<p>Conteúdos: Desenvolvimento de uma aplicação back-end em Java, Maven, Spring Boot, API Rest, Lombok, Integração
-com PostgreSQL Database, Implementando JDBC Template, príncipios do SOLID, JPA, utilização de entidades,
-cardinalidades entre tabelas e dto's.</p>
-
 ### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
 
 <img align="center" alt=""
@@ -31,6 +27,22 @@ cardinalidades entre tabelas e dto's.</p>
 ###
 
 ### Descrição do projeto :
+
+<p> - O que estudamos na aula 01</p>
+<img align="center" alt="diagrama uml simplificado"
+ height="400em" src="" />
+
+<p> - O que estudamos na aula 02</p>
+<img align="center" alt="diagrama uml simplificado"
+ height="400em" src="" />
+
+<p> - O que estudamos na aula 03</p>
+<img align="center" alt="diagrama uml simplificado"
+ height="400em" src="" />
+
+<p> - O que estudamos na aula 04</p>
+<img align="center" alt="diagrama uml simplificado"
+ height="400em" src="" />
 
 <p> - Diagrama do modelo de domínio da API</p>
 <img align="center" alt="diagrama uml simplificado"
