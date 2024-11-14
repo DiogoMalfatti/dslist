@@ -21,7 +21,7 @@
 
 ### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
 
-<img align="center" alt=""
+<img align="center" alt="chamada para o evento Intesivão Java Spring"
   height="400em" src="" />
 
 ###
