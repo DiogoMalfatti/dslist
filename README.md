@@ -43,11 +43,11 @@
  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/04aula.png" />
 
 <p> - Diagrama do modelo de domínio da API</p>
-<img align="center" alt="diagrama uml simplificado"
+<img align="center" alt="Diagrama do modelo de domínio da API"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/modeloDeDominio.png" />
 
 <p> - Criamos a API orientada em camadas</p>
-<img align="center" alt="diagrama uml simplificado"
+<img align="center" alt="Criamos a API orientada em camadas"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/modeloDeDominio.png" />
 
 <p> - Projeto rodando Java Spring na IDE Intellij</p>
@@ -55,24 +55,20 @@
   height="418em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/intellijSpring.png" />
 
 <p> - Usei o Insomnia para testar os endpoints</p>
-<img align="center" alt="imagem do insomnia testando os endpoints"
+<img align="center" alt="Usei o Insomnia para testar os endpoints"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/insomniaEndpoints.png" />
 
 <p> - Usuamos o banco de dados h2-console na fase de teste</p>
-<img align="center" alt="imagem do docker compose rodando o postgreSQL"
+<img align="center" alt="Usuamos o banco de dados h2-console na fase de teste"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/h2Console.png" />
 
-<p> - Criamos o banco de dados PostgreSQL no Docker Compose</p>
-<img align="center" alt="imagem do docker compose rodando o postgreSQL"
+<p> - Criamos no Docker Compose dois containers com o Postgres e o pgAdmin</p>
+<img align="center" alt="Criamos no Docker Compose dois containers com o Postgres e o pgAdmin"
   height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/dockerContainers.png" />
 
-<p> - Usei a extensão Database Client do Intellij para visualizar o banco de dados PostgreSQL</p>
-<img align="center" alt="imagem da extensão database rodando o banco de dados"
-  height="418em" src="" />
-
-<p> - Certificado de participação do evento</p>
-<img align="center" alt="imagem do certificado de participação do evento na NLW Expert do Diogo Malfatti"
-  height="418em" src="" />
+<p> - Usamos o pgAdmin para testar o banco de dados na fase de dev</p>
+<img align="center" alt="Usamos o pgAdmin para testar o banco de dados na fase de dev"
+  height="418em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/pgAdmin.png" />
 
 <p>Feito com ❤️ por :</p>
 
