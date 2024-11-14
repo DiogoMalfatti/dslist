@@ -40,31 +40,31 @@
 
 <p> - O que estudamos na aula 04</p>
 <img align="center" alt="O que estudamos na aula 04"
- height="400em" src="" />
+ height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/04aula.png" />
 
 <p> - Diagrama do modelo de domínio da API</p>
 <img align="center" alt="diagrama uml simplificado"
-  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/04aula.png" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/modeloDeDominio.png" />
 
 <p> - Criamos a API orientada em camadas</p>
 <img align="center" alt="diagrama uml simplificado"
-  height="400em" src="" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/modeloDeDominio.png" />
 
 <p> - Projeto rodando Java Spring na IDE Intellij</p>
 <img align="center" alt="imagem do projeto no intellij ide"
-  height="418em" src="" />
+  height="418em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/intellijSpring.png" />
 
 <p> - Usei o Insomnia para testar os endpoints</p>
 <img align="center" alt="imagem do insomnia testando os endpoints"
-  height="400em" src="" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/insomniaEndpoints.png" />
 
 <p> - Usuamos o banco de dados h2-console na fase de teste</p>
 <img align="center" alt="imagem do docker compose rodando o postgreSQL"
-  height="400em" src="" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/h2Console.png" />
 
 <p> - Criamos o banco de dados PostgreSQL no Docker Compose</p>
 <img align="center" alt="imagem do docker compose rodando o postgreSQL"
-  height="400em" src="" />
+  height="400em" src="https://github.com/DiogoMalfatti/dslist/blob/main/src/main/resources/templates/img/dockerContainers.png" />
 
 <p> - Usei a extensão Database Client do Intellij para visualizar o banco de dados PostgreSQL</p>
 <img align="center" alt="imagem da extensão database rodando o banco de dados"
