@@ -23,38 +23,46 @@
 com PostgreSQL Database, Implementando JDBC Template, príncipios do SOLID, JPA, utilização de entidades,
 cardinalidades entre tabelas e dto's.</p>
 
-### Este foi um projeto criado por DevSuperior profº Nélio Alves em nov/24
+### Este foi um projeto criado por DevSuperior profº Nélio Alves no Intensivão Java Spring em nov/24
 
 <img align="center" alt=""
-  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwExpert.png" />
+  height="400em" src="" />
 
 ###
 
 ### Descrição do projeto :
 
-<p> - Diagrama do modelo relacional simplificado da API</p>
+<p> - Diagrama do modelo de domínio da API</p>
 <img align="center" alt="diagrama uml simplificado"
-  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwmodelorelacional.png" />
+  height="400em" src="" />
 
-<p> - Projeto rodando na IDE Intellij</p>
+<p> - Criamos a API orientada em camadas</p>
+<img align="center" alt="diagrama uml simplificado"
+  height="400em" src="" />
+
+<p> - Projeto rodando Java Spring na IDE Intellij</p>
 <img align="center" alt="imagem do projeto no intellij ide"
-  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
+  height="418em" src="" />
 
 <p> - Usei o Insomnia para testar os endpoints</p>
 <img align="center" alt="imagem do insomnia testando os endpoints"
-  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwinsomniapost.png" />
+  height="400em" src="" />
+
+<p> - Usuamos o banco de dados h2-console na fase de teste</p>
+<img align="center" alt="imagem do docker compose rodando o postgreSQL"
+  height="400em" src="" />
 
 <p> - Criamos o banco de dados PostgreSQL no Docker Compose</p>
 <img align="center" alt="imagem do docker compose rodando o postgreSQL"
-  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdockerpostgresql.png" />
+  height="400em" src="" />
 
 <p> - Usei a extensão Database Client do Intellij para visualizar o banco de dados PostgreSQL</p>
 <img align="center" alt="imagem da extensão database rodando o banco de dados"
-  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdatabaseintellij.png" />
+  height="418em" src="" />
 
 <p> - Certificado de participação do evento</p>
 <img align="center" alt="imagem do certificado de participação do evento na NLW Expert do Diogo Malfatti"
-  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwcertificado.png" />
+  height="418em" src="" />
 
 <p>Feito com ❤️ por :</p>
 
