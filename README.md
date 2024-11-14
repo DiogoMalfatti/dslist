@@ -23,7 +23,7 @@
 com PostgreSQL Database, Implementando JDBC Template, príncipios do SOLID, JPA, utilização de entidades,
 cardinalidades entre tabelas e dto's.</p>
 
-### Este foi um projeto criado pela Rocketseat na NLW Expert em fev/24
+### Este foi um projeto criado por DevSuperior profº Nélio Alves em nov/24
 
 <img align="center" alt=""
   height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwExpert.png" />
